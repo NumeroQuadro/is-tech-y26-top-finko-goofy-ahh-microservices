@@ -1,0 +1,5 @@
+rootProject.name = 'SecurityMicroservice'
+include 'Application'
+include 'Brokers'
+include 'Controllers'
+
